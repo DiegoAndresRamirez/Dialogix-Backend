@@ -1,35 +1,57 @@
 # Dialogix 🗣️
 
+<div align="center">
+
+![Dialogix Logo](https://via.placeholder.com/150)
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://diegodarm.notion.site/Dialogix-11e84226c7a480a3aadbe8045f02b34b)
+
+[Descripción](#descripción-del-proyecto-) • 
+[Características](#características-principales-) • 
+[Tecnologías](#tecnologías-utilizadas-️) • 
+[Instalación](#instalación-) • 
+[Uso](#uso-) • 
+[Contribución](#contribución-) • 
+[Equipo](#equipo-) • 
+[Licencia](#licencia-)
+
+</div>
 
 ## Descripción del Proyecto 📱
 
-Dialogix es una innovadora aplicación móvil diseñada para revolucionar el aprendizaje del inglés. Utilizando inteligencia artificial generativa, Dialogix simula un profesor de inglés virtual, ofreciendo una plataforma interactiva para usuarios principiantes que buscan mejorar sus habilidades de conversación en inglés de manera efectiva y personalizada.
+Dialogix revoluciona el aprendizaje del inglés mediante una innovadora aplicación móvil impulsada por inteligencia artificial generativa. Simulando un profesor de inglés virtual, Dialogix ofrece una experiencia de aprendizaje interactiva, personalizada y efectiva para usuarios principiantes que buscan mejorar sus habilidades de conversación en inglés.
 
-### Misión 🎯
+### Nuestra Misión 🎯
 
-Nuestra misión es democratizar el acceso al aprendizaje del inglés, proporcionando una solución tecnológica avanzada que permita a los usuarios practicar y mejorar sus habilidades lingüísticas de manera autónoma, interactiva y adaptada a sus necesidades individuales.
+Democratizar el acceso al aprendizaje del inglés proporcionando una solución tecnológica avanzada que permita a los usuarios practicar y mejorar sus habilidades lingüísticas de manera autónoma, interactiva y adaptada a sus necesidades individuales.
 
 ## Características Principales ✨
 
-- **Conversación con IA 💬**: Mantén conversaciones fluidas en inglés con un modelo de IA avanzado, diseñado para adaptarse a tu nivel y ritmo de aprendizaje.
-- **Avatar 3D Personalizado 🤖**: Disfruta de una experiencia inmersiva con un avatar 3D animado basado en tu rostro, que actúa como tu profesor virtual personal.
-- **Aprendizaje Diario 📚**: Recibe 5 nuevas palabras diarias, incluyendo sus traducciones en todos los tiempos verbales y oraciones de ejemplo para un aprendizaje contextualizado.
-- **Práctica de Pronunciación 🗣️**: Mejora tu pronunciación con retroalimentación en tiempo real proporcionada por la IA, asegurando una pronunciación precisa y natural.
-- **Seguimiento de Progreso 📊**: Monitorea tu avance con estadísticas detalladas y visualizaciones de tu mejora en el tiempo.
-- **Modo Offline 🔌**: Accede a lecciones y contenido previamente descargado incluso sin conexión a internet.
+<table>
+  <tr>
+    <td align="center"><img src="https://via.placeholder.com/50" alt="AI Chat"><br><b>Conversación con IA 💬</b></td>
+    <td align="center"><img src="https://via.placeholder.com/50" alt="3D Avatar"><br><b>Avatar 3D Personalizado 🤖</b></td>
+    <td align="center"><img src="https://via.placeholder.com/50" alt="Daily Learning"><br><b>Aprendizaje Diario 📚</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://via.placeholder.com/50" alt="Pronunciation"><br><b>Práctica de Pronunciación 🗣️</b></td>
+    <td align="center"><img src="https://via.placeholder.com/50" alt="Progress Tracking"><br><b>Seguimiento de Progreso 📊</b></td>
+    <td align="center"><img src="https://via.placeholder.com/50" alt="Offline Mode"><br><b>Modo Offline 🔌</b></td>
+  </tr>
+</table>
 
 ## Tecnologías Utilizadas 🛠️
 
-- [React Native](https://reactnative.dev/) - Framework principal para el desarrollo multiplataforma
-- Inteligencia Artificial Generativa - Para la interacción conversacional y la retroalimentación
-- [Three.js](https://threejs.org/) / [Unity](https://unity.com/) - Para el modelado y animación 3D
-- Reconocimiento Facial - Para la creación de avatares personalizados
-- Sistema de Notificaciones - Para recordatorios y entrega de contenido diario
-- [Firebase](https://firebase.google.com/) - Para autenticación de usuarios y almacenamiento en la nube
-- [Redux](https://redux.js.org/) - Para la gestión del estado de la aplicación
+- [React Native](https://reactnative.dev/) - Framework principal
+- Inteligencia Artificial Generativa
+- [Three.js](https://threejs.org/) / [Unity](https://unity.com/) - Modelado 3D
+- Reconocimiento Facial
+- [Firebase](https://firebase.google.com/) - Backend y autenticación
+- [Redux](https://redux.js.org/) - Gestión de estado
 
 ## Instalación 🚀
 
@@ -43,24 +65,23 @@ cd DialogixCode
 # Instalar dependencias
 npm install
 
-# Iniciar la aplicación en Android
+# Iniciar la aplicación
 npx react-native run-android
-
-# O iniciar la aplicación en iOS
+# o
 npx react-native run-ios
 ```
 
 ## Uso 📖
 
-1. **Registro e Inicio de Sesión**: Crea tu cuenta personal o inicia sesión si ya tienes una.
-2. **Configuración del Avatar**: Utiliza la cámara frontal para escanear tu rostro y crear tu avatar personalizado.
-3. **Evaluación Inicial**: Realiza una breve prueba para determinar tu nivel actual de inglés.
-4. **Práctica Diaria**: Accede a tus lecciones diarias y conversa con tu profesor virtual.
-5. **Seguimiento**: Revisa tu progreso y estadísticas en el panel de control personalizado.
+1. **Registro e Inicio de Sesión** 🔐
+2. **Configuración del Avatar** 🤖
+3. **Evaluación Inicial** 📝
+4. **Práctica Diaria** 🗓️
+5. **Seguimiento de Progreso** 📈
 
 ## Contribución 🤝
 
-Agradecemos las contribuciones de la comunidad. Si deseas contribuir a Dialogix, por favor sigue estos pasos:
+¡Agradecemos las contribuciones de la comunidad! Si deseas contribuir a Dialogix:
 
 1. Forkea el repositorio
 2. Crea una nueva rama (`git checkout -b feature/AmazingFeature`)
@@ -68,28 +89,39 @@ Agradecemos las contribuciones de la comunidad. Si deseas contribuir a Dialogix,
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-Para más detalles, consulta nuestra [guía de contribución](CONTRIBUTING.md).
+Consulta nuestra [guía de contribución](CONTRIBUTING.md) para más detalles.
 
 ## Equipo 👥
 
-| Nombre | Rol | GitHub |
-|--------|-----|--------|
-| Diego Ramírez | Desarrollador Principal | [@DiegoAndresRamirez](https://github.com/DiegoAndresRamirez) |
-| Alejandro Velásquez | Desarrollador Full-Stack | [@alejandroava](https://github.com/alejandroava) |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DiegoAndresRamirez">
+        <img src="https://via.placeholder.com/100" width="100px;" alt="Diego Ramírez"/><br />
+        <sub><b>Diego Ramírez</b></sub>
+      </a><br />
+      Desarrollador Principal
+    </td>
+    <td align="center">
+      <a href="https://github.com/alejandroava">
+        <img src="https://via.placeholder.com/100" width="100px;" alt="Alejandro Velásquez"/><br />
+        <sub><b>Alejandro Velásquez</b></sub>
+      </a><br />
+      Desarrollador Full-Stack
+    </td>
+  </tr>
+</table>
 
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-## Contacto 📞
-
-- **Diego Ramírez**: [GitHub](https://github.com/DiegoAndresRamirez) | [Email](mailto:diego@dialogix.com)
-- **Alejandro Velásquez**: [GitHub](https://github.com/alejandroava) | [Email](mailto:alejandro@dialogix.com)
-
-## Documentación Adicional 📚
-
-Para obtener información más detallada sobre el proyecto, incluyendo nuestra hoja de ruta, FAQs, y guías de desarrollo, visita nuestra [página de Notion](https://diegodarm.notion.site/Dialogix-11e84226c7a480a3aadbe8045f02b34b).
-
 ---
 
+<div align="center">
+
+**[Documentación Detallada](https://diegodarm.notion.site/Dialogix-11e84226c7a480a3aadbe8045f02b34b)** • **[Reportar un Bug](https://github.com/DiegoAndresRamirez/Dialogix-Backend/issues)** • **[Solicitar una Función](https://github.com/DiegoAndresRamirez/Dialogix-Backend/issues)**
+
 Desarrollado con ❤️ por el equipo de Dialogix
+
+</div>
