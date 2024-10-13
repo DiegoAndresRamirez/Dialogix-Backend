@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Logo de React](ReadmeAssets/react-logo.svg)
+![Logo de React](ReadmeAssets/dialogix-logo.svg)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
@@ -33,14 +33,14 @@ Democratizar el acceso al aprendizaje del inglés proporcionando una solución t
 
 <table>
   <tr>
-    <td align="center"><img src="https://via.placeholder.com/50" alt="AI Chat"><br><b>Conversación con IA 💬</b></td>
-    <td align="center"><img src="https://via.placeholder.com/50" alt="3D Avatar"><br><b>Avatar 3D Personalizado 🤖</b></td>
-    <td align="center"><img src="https://via.placeholder.com/50" alt="Daily Learning"><br><b>Aprendizaje Diario 📚</b></td>
+    <td align="center"><img src="ReadmeAssets/Ia-logo.svg" alt="AI Chat"><br><b>Conversación con IA 💬</b></td>
+    <td align="center"><img src="ReadmeAssets/avatar-logo.svg" alt="3D Avatar"><br><b>Avatar 3D Personalizado 🤖</b></td>
+    <td align="center"><img src="ReadmeAssets/aprendizaje-logo.svg" alt="Daily Learning"><br><b>Aprendizaje Diario 📚</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://via.placeholder.com/50" alt="Pronunciation"><br><b>Práctica de Pronunciación 🗣️</b></td>
-    <td align="center"><img src="https://via.placeholder.com/50" alt="Progress Tracking"><br><b>Seguimiento de Progreso 📊</b></td>
-    <td align="center"><img src="https://via.placeholder.com/50" alt="Offline Mode"><br><b>Modo Offline 🔌</b></td>
+    <td align="center"><img src="ReadmeAssets/talk-logo.svg" alt="Pronunciation"><br><b>Práctica de Pronunciación 🗣️</b></td>
+    <td align="center"><img src="ReadmeAssets/seguimiento-logo.svg" alt="Progress Tracking"><br><b>Seguimiento de Progreso 📊</b></td>
+    <td align="center"><img src="ReadmeAssets/offline-logo.svg" alt="Offline Mode"><br><b>Modo Offline 🔌</b></td>
   </tr>
 </table>
 
@@ -97,14 +97,14 @@ Consulta nuestra [guía de contribución](CONTRIBUTING.md) para más detalles.
   <tr>
     <td align="center">
       <a href="https://github.com/DiegoAndresRamirez">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Diego Ramírez"/><br />
+        <img src="ReadmeAssets/diego-logo.svg" width="100px;" alt="Diego Ramírez"/><br />
         <sub><b>Diego Ramírez</b></sub>
       </a><br />
       Desarrollador Principal
     </td>
     <td align="center">
       <a href="https://github.com/alejandroava">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Alejandro Velásquez"/><br />
+        <img src="ReadmeAssets/alejandro-logo.svg" width="100px;" alt="Alejandro Velásquez"/><br />
         <sub><b>Alejandro Velásquez</b></sub>
       </a><br />
       Desarrollador Full-Stack
