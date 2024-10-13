@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Dialogix Logo](https://via.placeholder.com/150)
+![Logo de React](ReadmeAssets/react-logo.svg)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
